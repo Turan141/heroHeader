@@ -1,5 +1,5 @@
-import React from 'react'
+import React from "react"
 
 export default function top25() {
-  return <div>top25</div>
+	return <div>top25</div>
 }

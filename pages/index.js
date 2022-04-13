@@ -1,8 +1,8 @@
 const Home = ({ heroes }) => {
 	return (
-		<>
-			<h1>index</h1>
-		</>
+		<div>
+			<h1>main</h1>
+		</div>
 	)
 }
 
